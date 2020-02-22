@@ -20,6 +20,28 @@ body,
   }
 }
 
+.login {
+  width: 50%;
+  margin: 10% auto;
+}
+
+.forms{
+  border: 10px double #608a60;
+  width: 50%;
+  margin: 0 auto;
+  background: #555;
+}
+.forms input {
+  width: 90%;
+  margin: 1% auto;
+}
+.forms button{
+  width: 50%;
+  margin: 1% auto;
+  background: #608a60;
+  color: #f3e8ef;
+  font-size: 20px;
+}
 .spacer {
   height: 100%;
 }
